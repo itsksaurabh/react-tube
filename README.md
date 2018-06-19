@@ -6,8 +6,23 @@ A Youtube video Search app made using React.js and Node.js.It uses <a href="http
 
 Available online: http://the-react-tube.herokuapp.com/
 <br>
-<hr>
-<img align="middle" src="https://preview.ibb.co/ctUzFJ/ryt.jpg" />
+<p align="center">
+<img src="https://preview.ibb.co/ctUzFJ/ryt.jpg" />
+ </p>
+ 
+# Usage
+  Run the following commands in Terminal/CMD :
+  - Install all dependencies
+  ```
+  $ npm install
+  ```
+  - Run application
+  ```
+  $ npm start
+  ```
+# Requirements
+  - Node.js
+  - React.js
 
 # Author
 <ul>
