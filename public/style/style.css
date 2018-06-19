@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+}
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+
+.search-bar input{
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.video-item img {
+    max-width: 50px;
+}
+
+.video-detail .details {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover{
+    background-color: #eee ;
+}
+
+.list-group{
+    border-radius: 15px;
+}
+
+.navbar-right{
+    float: right;
+}
