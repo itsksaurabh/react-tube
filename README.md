@@ -1,7 +1,8 @@
-
+# React-Tube
 <p align="center">
  <img height="100 px" src="https://image.ibb.co/kiJLNy/logo.png" alt="logo">
-
+</p>
+<p align="center">
 A Youtube video Search application made using React.js and Node.js and Bootstrap 4.
 <br>
 It uses <a href="https://developers.google.com/youtube/v3/">Yotube Data API V3</a> to fetch real-time data from Youtube.
