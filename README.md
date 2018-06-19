@@ -1,6 +1,6 @@
-# react-tube
-
-<img height="50px" src="https://image.ibb.co/kiJLNy/logo.png" alt="logo">
+<p align="center">
+<img height="100 px" src="https://image.ibb.co/kiJLNy/logo.png" alt="logo">
+</p>
 <br>
 A Youtube video Search app made using React.js and Node.js.It uses <a href="https://developers.google.com/youtube/v3/">Yotube Data API V3</a> to fetch data from Youtube.
 
