@@ -15,12 +15,15 @@ Available online: http://the-react-tube.herokuapp.com/
  </p>
  
 # Usage
+- Make sure you have a valid API Key. If not, you can get a new one by registering at <a href="https://developers.google.com/youtube/v3/">Yotube Data API V3</a> Page and update <a href="https://github.com/itsksaurabh/react-tube/blob/master/src/index.js">index.js</a> file.
+
+  <br>
   Run the following commands in Terminal/CMD :
-  - Install all dependencies
+- Install all dependencies
   ```
   $ npm install
   ```
-  - Run application
+- Run application
   ```
   $ npm start
   ```
