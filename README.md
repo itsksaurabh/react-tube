@@ -1,6 +1,6 @@
-<p align="center">
+#
 <img height="100 px" src="https://image.ibb.co/kiJLNy/logo.png" alt="logo">
-</p>
+
 <br>
 A Youtube video Search application made using React.js and Node.js and Bootstrap 4.
 <br>
